@@ -1,2 +1,2 @@
-![Screenshot (271)](https://github.com/VijayMathe/Checkers_Game_With_AI_Player_Feature/assets/107846001/7eceb699-66ff-4d42-a83f-d7267db5ebe8)
-![Screenshot (272)](https://github.com/VijayMathe/Checkers_Game_With_AI_Player_Feature/assets/107846001/e1b75ddd-aa53-4d25-ad33-d4da92d99a80)
+![Screenshot 2024-03-02 170736](https://github.com/VijayMathe/Checkers_Game_With_AI_Player_Feature/assets/107846001/c0370c50-10fa-4415-bd99-db699078fb8c)
+![Screenshot 2024-03-02 170824](https://github.com/VijayMathe/Checkers_Game_With_AI_Player_Feature/assets/107846001/2aa3ae3b-d8d9-4b0d-a19e-9ad41f3b44f7)
